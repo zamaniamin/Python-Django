@@ -3,13 +3,30 @@ Here is a small and summarized training repository of **'Python'** and technolog
 This source helps me do not forget what I have learned, also this help me to access important details in code syntax and commands, or repeatable codes that I do most of the time.
 
 You can use this resource and help me to upgrade or edit it.
+
 * ### Python
 * ### pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 * ### Django
-  + [Start a new Django project](https://github.com/zamaniamin/python-family/wiki/Start-a-new-Django-project)
+  + [Start a New Django Project](https://github.com/zamaniamin/python-family/wiki/Start-a-new-Django-project)
   + [Migration](https://github.com/zamaniamin/python-family/wiki/Migration)
-  + [Start server](https://github.com/zamaniamin/python-family/wiki/Start-server)
+  + [Start Server](https://github.com/zamaniamin/python-family/wiki/Start-server)
+  + [Requirements](https://github.com/zamaniamin/python-family/wiki/Requirements)
+  + [Other Commands](https://github.com/zamaniamin/python-family/wiki/Other-commands)
+  + [Project Config](https://github.com/zamaniamin/python-family/wiki/Project-config)
+  + [Create Data Model](https://github.com/zamaniamin/python-family/wiki/Create-data-model)
+  + [Admin Panel](https://github.com/zamaniamin/python-family/wiki/Admin-panel)
+  + [Routing](https://github.com/zamaniamin/python-family/wiki/Routing)
+  + [Views (Function Based)](https://github.com/zamaniamin/python-family/wiki/Function-Based-Views)
+  + [Views (Class Based)](https://github.com/zamaniamin/python-family/wiki/Class-Based-Views)
+  + [Django Template](https://github.com/zamaniamin/python-family/wiki/Django-Template)
+  + [Model Managers and Querysets](https://github.com/zamaniamin/python-family/wiki/Model-Managers-and-Querysets)
+  + [Form](https://github.com/zamaniamin/python-family/wiki/Form-(forms.py))
+  + [User model](https://github.com/zamaniamin/python-family/wiki/User-model-(pre-created))
+  + [Authentification](https://github.com/zamaniamin/python-family/wiki/Authentification)
+  + [Send Email](https://github.com/zamaniamin/python-family/wiki/Send-Email)
+  + [Flash messages](https://github.com/zamaniamin/python-family/wiki/Flash-messages)
+  + [Seed](https://github.com/zamaniamin/python-family/wiki/Seed)
 * ### Django Rest Framework
 * ### Git
 * ### Docker
