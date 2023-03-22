@@ -5,6 +5,12 @@ This source helps me do not forget what I have learned, also this help me to acc
 You can use this resource and help me to upgrade or edit it.
 
 * ### Python
+  + [Introduction](https://github.com/zamaniamin/python-family/wiki/Introduction)
+  + [Variables](https://github.com/zamaniamin/python-family/wiki/Variables)
+  + [Data Types](https://github.com/zamaniamin/python-family/wiki/Data-Types)
+  + [Numbers](https://github.com/zamaniamin/python-family/wiki/Numbers)
+  + [Casting](https://github.com/zamaniamin/python-family/wiki/Casting)
+  + [Strings](https://github.com/zamaniamin/python-family/wiki/Strings)
 * ### pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 * ### Django
