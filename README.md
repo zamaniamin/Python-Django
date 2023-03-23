@@ -11,6 +11,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Numbers](https://github.com/zamaniamin/python-family/wiki/Numbers)
   + [Casting](https://github.com/zamaniamin/python-family/wiki/Casting)
   + [Strings](https://github.com/zamaniamin/python-family/wiki/Strings)
+  + [Booleans](https://github.com/zamaniamin/python-family/wiki/Booleans)
 * ### pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 * ### Django
