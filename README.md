@@ -14,22 +14,6 @@ You can use this resource and help me to upgrade or edit it.
   + [Booleans](https://github.com/zamaniamin/python-family/wiki/Booleans)
   + [Operators](https://github.com/zamaniamin/python-family/wiki/Operators)
   + [Lists](https://github.com/zamaniamin/python-family/wiki/Lists)
-# Python Family
-Here is a small and summarized training repository of **'Python'** and technologies related to Python, like **'Django'** or even **'pip commands'**.
-This source helps me do not forget what I have learned, also this help me to access important details in code syntax and commands, or repeatable codes that I do most of the time.
-
-You can use this resource and help me to upgrade or edit it.
-
-* ### Python
-  + [Introduction](https://github.com/zamaniamin/python-family/wiki/Introduction)
-  + [Variables](https://github.com/zamaniamin/python-family/wiki/Variables)
-  + [Data Types](https://github.com/zamaniamin/python-family/wiki/Data-Types)
-  + [Numbers](https://github.com/zamaniamin/python-family/wiki/Numbers)
-  + [Casting](https://github.com/zamaniamin/python-family/wiki/Casting)
-  + [Strings](https://github.com/zamaniamin/python-family/wiki/Strings)
-  + [Booleans](https://github.com/zamaniamin/python-family/wiki/Booleans)
-  + [Operators](https://github.com/zamaniamin/python-family/wiki/Operators)
-  + [Lists](https://github.com/zamaniamin/python-family/wiki/Lists)
   + [Tuple](https://github.com/zamaniamin/python-family/wiki/Tuple)
   + [Sets](https://github.com/zamaniamin/python-family/wiki/Sets)
   + [Dictionaries](https://github.com/zamaniamin/python-family/wiki/Dictionaries)
@@ -40,32 +24,6 @@ You can use this resource and help me to upgrade or edit it.
   + [Classes](https://github.com/zamaniamin/python-family/wiki/Classes)
   + [Inheritance](https://github.com/zamaniamin/python-family/wiki/Inheritance)
   + [Iterators](https://github.com/zamaniamin/python-family/wiki/Iterators)
-* ### pip
-  + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
-* ### Django
-  + [Start a New Django Project](https://github.com/zamaniamin/python-family/wiki/Start-a-new-Django-project)
-  + [Migration](https://github.com/zamaniamin/python-family/wiki/Migration)
-  + [Start Server](https://github.com/zamaniamin/python-family/wiki/Start-server)
-  + [Requirements](https://github.com/zamaniamin/python-family/wiki/Requirements)
-  + [Other Commands](https://github.com/zamaniamin/python-family/wiki/Other-commands)
-  + [Project Config](https://github.com/zamaniamin/python-family/wiki/Project-config)
-  + [Create Data Model](https://github.com/zamaniamin/python-family/wiki/Create-data-model)
-  + [Admin Panel](https://github.com/zamaniamin/python-family/wiki/Admin-panel)
-  + [Routing](https://github.com/zamaniamin/python-family/wiki/Routing)
-  + [Views (Function Based)](https://github.com/zamaniamin/python-family/wiki/Function-Based-Views)
-  + [Views (Class Based)](https://github.com/zamaniamin/python-family/wiki/Class-Based-Views)
-  + [Django Template](https://github.com/zamaniamin/python-family/wiki/Django-Template)
-  + [Model Managers and Querysets](https://github.com/zamaniamin/python-family/wiki/Model-Managers-and-Querysets)
-  + [Form](https://github.com/zamaniamin/python-family/wiki/Form-(forms.py))
-  + [User model](https://github.com/zamaniamin/python-family/wiki/User-model-(pre-created))
-  + [Authentification](https://github.com/zamaniamin/python-family/wiki/Authentification)
-  + [Send Email](https://github.com/zamaniamin/python-family/wiki/Send-Email)
-  + [Flash messages](https://github.com/zamaniamin/python-family/wiki/Flash-messages)
-  + [Seed](https://github.com/zamaniamin/python-family/wiki/Seed)
-* ### Django Rest Framework
-* ### Git
-* ### Docker
-
 * ### pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 * ### Django
