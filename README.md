@@ -52,4 +52,5 @@ You can use this resource and help me to upgrade or edit it.
 * ### Interview Questions
   + [Python Syntax](https://github.com/zamaniamin/python-family/wiki/Python-Syntax)
   + [Python OOP](https://github.com/zamaniamin/python-family/wiki/Python-OOP)
-  + [Clean Code ](https://github.com/zamaniamin/python-family/wiki/Clean-Code)
+  + [Clean Code](https://github.com/zamaniamin/python-family/wiki/Clean-Code)
+  + [SQL and NoSQL]([https://github.com/zamaniamin/python-family/wiki/Clean-Code](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL))
