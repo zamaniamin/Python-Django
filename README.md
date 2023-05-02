@@ -49,3 +49,5 @@ You can use this resource and help me to upgrade or edit it.
 * ### Django Rest Framework
 * ### Git
 * ### Docker
+* ### Interview Questions
+  + [Python Syntax](https://github.com/zamaniamin/python-family/wiki/Python-Syntax)
