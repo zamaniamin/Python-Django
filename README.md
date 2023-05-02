@@ -24,6 +24,8 @@ You can use this resource and help me to upgrade or edit it.
   + [Classes](https://github.com/zamaniamin/python-family/wiki/Classes)
   + [Inheritance](https://github.com/zamaniamin/python-family/wiki/Inheritance)
   + [Iterators](https://github.com/zamaniamin/python-family/wiki/Iterators)
+* ### Clean Code
+  + [Clean Code and Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-and-Python)
 * ### pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 * ### Django
