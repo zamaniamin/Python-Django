@@ -53,5 +53,5 @@ You can use this resource and help me to upgrade or edit it.
   + [Python Syntax](https://github.com/zamaniamin/python-family/wiki/Python-Syntax)
   + [Python OOP](https://github.com/zamaniamin/python-family/wiki/Python-OOP)
   + [Clean Code](https://github.com/zamaniamin/python-family/wiki/Clean-Code)
-  + [Database](https://github.com/zamaniamin/python-family/wiki/Clean-Code](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL)
+  + [Database](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL)
   + [Unit testing](https://github.com/zamaniamin/python-family/wiki/Unit-testing)
