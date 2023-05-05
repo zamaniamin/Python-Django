@@ -58,6 +58,8 @@ You can use this resource and help me to upgrade or edit it.
   + [Python Developer position](https://github.com/zamaniamin/python-family/wiki/Python-Developer-Position)
   + [Python backend developer](https://github.com/zamaniamin/python-family/wiki/Python-Backend-Developer)
   + [Clean Code](https://github.com/zamaniamin/python-family/wiki/Clean-Code)
+  + [Data Structures](https://github.com/zamaniamin/python-family/wiki/Data-Structures)
+  + [Algorithms ](https://github.com/zamaniamin/python-family/wiki/Algorithms)
   + [Database](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL)
   + [Unit testing](https://github.com/zamaniamin/python-family/wiki/Unit-testing)
   + [REST API](https://github.com/zamaniamin/python-family/wiki/REST-API)
