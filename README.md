@@ -60,4 +60,5 @@ You can use this resource and help me to upgrade or edit it.
   + [Database](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL)
   + [Unit testing](https://github.com/zamaniamin/python-family/wiki/Unit-testing)
   + [REST API](https://github.com/zamaniamin/python-family/wiki/REST-API)
+  + [Django](https://github.com/zamaniamin/python-family/wiki/Django)
 
