@@ -64,3 +64,4 @@ You can use this resource and help me to upgrade or edit it.
   + [Django Advance](https://github.com/zamaniamin/python-family/wiki/Django-Advance)
   + [Django ORM](https://github.com/zamaniamin/python-family/wiki/Django-ORM)
   + [Django Models](https://github.com/zamaniamin/python-family/wiki/Django-Models)
+  + [Django Views](https://github.com/zamaniamin/python-family/wiki/Django-views)
