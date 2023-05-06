@@ -29,13 +29,13 @@ You can use this resource and help me to upgrade or edit it.
   + [Clean Code Example in Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Example-in-Python)
 ## Algorithms
   + [Introduction](https://github.com/zamaniamin/python-family/wiki/Algorithms-Introduction)
-  + [Sorting Algorithms]()
-  + [Search Algorithms]()
-  + [Regular Expressions]()
-  + [Graph Algorithms]()
-  + [Machine Learning Algorithms]()
-  + [Encryption Algorithms]()
-  + [Compression Algorithms]()
+  + [Sorting Algorithms](https://github.com/zamaniamin/python-family/wiki/Sorting-Algorithms)
+  + [Search Algorithms](https://github.com/zamaniamin/python-family/wiki/Search-Algorithms)
+  + [Pattern-matching Algorithm](https://github.com/zamaniamin/python-family/wiki/Pattern-matching-Algorithm)
+  + [Graph Algorithms](https://github.com/zamaniamin/python-family/wiki/Graph-Algorithms)
+  + [Machine Learning Algorithms](https://github.com/zamaniamin/python-family/wiki/Machine-Learning-Algorithms)
+  + [Encryption Algorithms](https://github.com/zamaniamin/python-family/wiki/Encryption-Algorithms)
+  + [Compression Algorithms](https://github.com/zamaniamin/python-family/wiki/Compression-Algorithms)
 ## pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 ## Django
