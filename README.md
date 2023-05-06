@@ -69,4 +69,6 @@ You can use this resource and help me to upgrade or edit it.
   + [Django Models](https://github.com/zamaniamin/python-family/wiki/Django-Models)
   + [Django Views](https://github.com/zamaniamin/python-family/wiki/Django-views)
   + [Django Rest Framework](https://github.com/zamaniamin/python-family/wiki/Django-Rest-Framework)
-  + []()
+  + [Django Rest Framework serializers](https://github.com/zamaniamin/python-family/wiki/Django-Rest-Framework-serializers)
+  + [Django Rest Framework views]()
+  + [Django Rest Framework viewsets](https://github.com/zamaniamin/python-family/wiki/Django-Rest-Framework-viewsets)
