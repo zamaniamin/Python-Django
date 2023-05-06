@@ -27,6 +27,15 @@ You can use this resource and help me to upgrade or edit it.
 ## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Example-in-Python)
+## Algorithms
+  + [Introduction]()
+  + [Sorting Algorithms]()
+  + [Search Algorithms]()
+  + [Regular Expressions]()
+  + [Graph Algorithms]()
+  + [Machine Learning Algorithms]()
+  + [Encryption Algorithms]()
+  + [Compression Algorithms]()
 ## pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 ## Django
