@@ -65,6 +65,7 @@ You can use this resource and help me to upgrade or edit it.
   + [PostgreSQL](https://github.com/zamaniamin/python-family/wiki/PostgreSQL)
   + [Redis](https://github.com/zamaniamin/python-family/wiki/Redis)
   + [Celery](https://github.com/zamaniamin/python-family/wiki/Celery)
+  + [RabbitMQ](https://github.com/zamaniamin/python-family/wiki/RabbitMQ)
   + [Unit testing](https://github.com/zamaniamin/python-family/wiki/Unit-testing)
   + [Web API](https://github.com/zamaniamin/python-family/wiki/Web-API)
   + [REST API](https://github.com/zamaniamin/python-family/wiki/REST-API)
