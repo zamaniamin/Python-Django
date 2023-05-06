@@ -4,7 +4,7 @@ This source helps me do not forget what I have learned, also this help me to acc
 
 You can use this resource and help me to upgrade or edit it.
 
-* ### Python
+## Python
   + [Introduction](https://github.com/zamaniamin/python-family/wiki/Introduction)
   + [Variables](https://github.com/zamaniamin/python-family/wiki/Variables)
   + [Data Types](https://github.com/zamaniamin/python-family/wiki/Data-Types)
@@ -24,12 +24,12 @@ You can use this resource and help me to upgrade or edit it.
   + [Classes](https://github.com/zamaniamin/python-family/wiki/Classes)
   + [Inheritance](https://github.com/zamaniamin/python-family/wiki/Inheritance)
   + [Iterators](https://github.com/zamaniamin/python-family/wiki/Iterators)
-* ### Clean Code
+## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Example-in-Python)
-* ### pip
+## pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
-* ### Django
+## Django
   + [Start a New Django Project](https://github.com/zamaniamin/python-family/wiki/Start-a-new-Django-project)
   + [Migration](https://github.com/zamaniamin/python-family/wiki/Migration)
   + [Start Server](https://github.com/zamaniamin/python-family/wiki/Start-server)
@@ -49,11 +49,11 @@ You can use this resource and help me to upgrade or edit it.
   + [Send Email](https://github.com/zamaniamin/python-family/wiki/Send-Email)
   + [Flash messages](https://github.com/zamaniamin/python-family/wiki/Flash-messages)
   + [Seed](https://github.com/zamaniamin/python-family/wiki/Seed)
-* ### Django Rest Framework
-* ### Git
-* ### Docker
-* ### [As a Backend developer](https://github.com/zamaniamin/python-family/wiki/As-a-Backend-Developer)
-* ### Interview Questions
+## Django Rest Framework
+## Git
+## Docker
+## [As a Backend developer](https://github.com/zamaniamin/python-family/wiki/As-a-Backend-Developer)
+## Interview Questions
   + [Python Syntax](https://github.com/zamaniamin/python-family/wiki/Python-Syntax)
   + [Python OOP](https://github.com/zamaniamin/python-family/wiki/Python-OOP)
   + [Python Developer position](https://github.com/zamaniamin/python-family/wiki/Python-Developer-Position)
