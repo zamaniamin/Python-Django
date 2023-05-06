@@ -61,7 +61,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Data Structures](https://github.com/zamaniamin/python-family/wiki/Data-Structures)
   + [Algorithms ](https://github.com/zamaniamin/python-family/wiki/Algorithms)
   + [Database](https://github.com/zamaniamin/python-family/wiki/SQL-and-NoSQL)
-  + [PostgreSQL](https://github.com/zamaniamin/python-family/wiki/PostgreSQL/_edit)
+  + [PostgreSQL](https://github.com/zamaniamin/python-family/wiki/PostgreSQL)
   + [Unit testing](https://github.com/zamaniamin/python-family/wiki/Unit-testing)
   + [Web API](https://github.com/zamaniamin/python-family/wiki/Web-API)
   + [REST API](https://github.com/zamaniamin/python-family/wiki/REST-API)
