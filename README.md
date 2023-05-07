@@ -36,7 +36,16 @@ You can use this resource and help me to upgrade or edit it.
   + [Machine Learning Algorithms](https://github.com/zamaniamin/python-family/wiki/Machine-Learning-Algorithms)
   + [Encryption Algorithms](https://github.com/zamaniamin/python-family/wiki/Encryption-Algorithms)
   + [Compression Algorithms](https://github.com/zamaniamin/python-family/wiki/Compression-Algorithms)
-## [API](https://github.com/zamaniamin/python-family/wiki/API)
+## API
+  + [Introduction](https://github.com/zamaniamin/python-family/wiki/API)
+  + [API development](https://github.com/zamaniamin/python-family/wiki/API-development)
+  + [API architecture]()
+  + [lifecycle of APIs]()
+  + [API Designing]()
+  + [Implementing APIs]()
+  + [Defining the API specification]()
+  + [API Testing Tools]()
+  + [API documentation]()
 ## pip
   + [pip Commands](https://github.com/zamaniamin/python-family/wiki/pip-Commands)
 ## Django
