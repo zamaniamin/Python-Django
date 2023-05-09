@@ -69,6 +69,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Flash messages](https://github.com/zamaniamin/python-family/wiki/Flash-messages)
   + [Seed](https://github.com/zamaniamin/python-family/wiki/Seed)
 ## Django Rest Framework
+  + [Serializers](https://github.com/zamaniamin/python-family/wiki/Serializers)
 ## Git
 ## Docker
 ## [As a Backend developer](https://github.com/zamaniamin/python-family/wiki/As-a-Backend-Developer)
