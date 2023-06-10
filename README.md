@@ -76,6 +76,9 @@ You can use this resource and help me to upgrade or edit it.
 ## [JSON](https://github.com/zamaniamin/python-family/wiki/JSON)
 ## Docker
 ## Testing Methodology
+  + [Automated vs. Manual Testing](https://github.com/zamaniamin/python-family/wiki/Automated-vs.-Manual-Testing)
+  + [Unit Tests vs. Integration Tests](https://github.com/zamaniamin/python-family/wiki/Unit-Tests-vs.-Integration-Tests)
+  + [Choosing a Test Runner](https://github.com/zamaniamin/python-family/wiki/Choosing-a-Test-Runner)
   + [End-to-end](https://github.com/zamaniamin/python-family/wiki/End-to-end-Testing)
 ## [As a Backend developer](https://github.com/zamaniamin/python-family/wiki/As-a-Backend-Developer)
 ## Interview Questions
