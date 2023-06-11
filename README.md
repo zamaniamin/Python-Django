@@ -83,9 +83,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Executing Your First Test](https://github.com/zamaniamin/python-family/wiki/Executing-Your-First-Test)
   + [Testing for Django](https://github.com/zamaniamin/python-family/wiki/Testing-for-Django)
   + [More Advanced Testing Scenarios](https://github.com/zamaniamin/python-family/wiki/More-Advanced-Testing-Scenarios)
-  + []()
-  + []()
-  + []()
+  + [Automating the Execution of Your Tests](https://github.com/zamaniamin/python-family/wiki/Automating-the-Execution-of-Your-Tests)
   + [End-to-end](https://github.com/zamaniamin/python-family/wiki/End-to-end-Testing)
 ## [As a Backend developer](https://github.com/zamaniamin/python-family/wiki/As-a-Backend-Developer)
 ## Interview Questions
