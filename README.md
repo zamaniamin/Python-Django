@@ -69,6 +69,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Send Email](https://github.com/zamaniamin/python-family/wiki/Send-Email)
   + [Flash messages](https://github.com/zamaniamin/python-family/wiki/Flash-messages)
   + [Seed](https://github.com/zamaniamin/python-family/wiki/Seed)
+  + [Organize Logic](https://github.com/zamaniamin/python-family/wiki/Organize-Logic)
 ## Django Rest Framework
   + [drf-spectacular](https://github.com/zamaniamin/python-family/wiki/drf-spectacular)
   + [Serializers](https://github.com/zamaniamin/python-family/wiki/Serializers)
