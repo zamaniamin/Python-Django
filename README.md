@@ -52,6 +52,7 @@ You can use this resource and help me to upgrade or edit it.
 ## SQLAlchemy
   + [Session](https://github.com/zamaniamin/Python/wiki/session)
 ## FastAPI
+  + [Naming Convention](https://github.com/zamaniamin/Python/wiki/Naming-Convention)
 ## Pytest
   + [set up test](https://github.com/zamaniamin/Python/wiki/Set-Up-Test)
 ## TDD
