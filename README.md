@@ -24,6 +24,8 @@ You can use this resource and help me to upgrade or edit it.
   + [Classes](https://github.com/zamaniamin/python-family/wiki/Classes)
   + [Inheritance](https://github.com/zamaniamin/python-family/wiki/Inheritance)
   + [Iterators](https://github.com/zamaniamin/python-family/wiki/Iterators)
+## Python Essentials 1 
+  + [Programming - absolute basics](https://github.com/zamaniamin/Python/wiki/Programming-%E2%80%90-absolute-basics)
 ## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Example-in-Python)
