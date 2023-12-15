@@ -24,6 +24,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Classes](https://github.com/zamaniamin/python-family/wiki/Classes)
   + [Inheritance](https://github.com/zamaniamin/python-family/wiki/Inheritance)
   + [Iterators](https://github.com/zamaniamin/python-family/wiki/Iterators)
+  + [How can I check all the installed Python versions on Windows?](https://github.com/zamaniamin/Python/wiki/How-can-I-check-all-the-installed-Python-versions-on-Windows%3F)
 ## Python Essentials 1 (PCEP)
   + [Programming - absolute basics](https://github.com/zamaniamin/Python/wiki/Programming-%E2%80%90-absolute-basics)
   + [Python ‐ a tool, not a reptile](https://github.com/zamaniamin/Python/wiki/Python-%E2%80%90-a-tool,-not-a-reptile)
