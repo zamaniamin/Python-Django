@@ -27,6 +27,7 @@ You can use this resource and help me to upgrade or edit it.
 ## Python Essentials 1 
   + [Programming - absolute basics](https://github.com/zamaniamin/Python/wiki/Programming-%E2%80%90-absolute-basics)
   + [Python ‐ a tool, not a reptile](https://github.com/zamaniamin/Python/wiki/Python-%E2%80%90-a-tool,-not-a-reptile)
+  + [Begin your Python journey](https://github.com/zamaniamin/Python/wiki/Begin-your-Python-journey)
 ## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python-family/wiki/Clean-Code-Example-in-Python)
