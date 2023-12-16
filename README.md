@@ -92,6 +92,8 @@ You can use this resource and help me to upgrade or edit it.
   + [Git Commit Message Structure](https://github.com/zamaniamin/Python/wiki/Git-Commit-Message-Structure)
   + [Best Practices For Git Commits](https://github.com/zamaniamin/Python/wiki/Best-Practices-For-Git-Commits)
 ## [JSON](https://github.com/zamaniamin/python-family/wiki/JSON)
+## Linux
+  + [Useful Linux commands](https://github.com/zamaniamin/Python/wiki/Useful-Linux-commands)
 ## Docker
 ## Python Testing
   + [Automated vs. Manual Testing](https://github.com/zamaniamin/python-family/wiki/Automated-vs.-Manual-Testing)
@@ -132,5 +134,6 @@ You can use this resource and help me to upgrade or edit it.
   + [Django Rest Framework views](https://github.com/zamaniamin/python-family/wiki/Django-Rest-Framework-views)
   + [Django Rest Framework viewsets](https://github.com/zamaniamin/python-family/wiki/Django-Rest-Framework-viewsets)
   + [Microservices](https://github.com/zamaniamin/python-family/wiki/Microservices)
-## Fun
+
+## wifi config
   + [Download Files From Your Computer](https://github.com/zamaniamin/Python/wiki/Download-Files-From-Your-Computer-By-Your-Phone)
