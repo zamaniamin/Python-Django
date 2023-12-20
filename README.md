@@ -67,13 +67,14 @@ You can use this resource and help me to upgrade or edit it.
 ## API
   + [Introduction](https://github.com/zamaniamin/python/wiki/API)
   + [API development](https://github.com/zamaniamin/python/wiki/API-development)
-  + [API architecture]()
-  + [lifecycle of APIs]()
-  + [API Designing]()
-  + [Implementing APIs]()
-  + [Defining the API specification]()
+  + API architecture
+  + lifecycle of APIs
+  + [REST APIs](https://github.com/zamaniamin/Python/wiki/REST-APIs)
+  + API Designing
+  + Implementing APIs
+  + Defining the API specification
   + [API Testing Tools](https://github.com/zamaniamin/python/wiki/Testing-Tool)
-  + [API documentation]()
+  + API documentation
   + [API version](https://github.com/zamaniamin/python/wiki/API-version)
 ## pip
   + [pip Commands](https://github.com/zamaniamin/python/wiki/pip-Commands)
