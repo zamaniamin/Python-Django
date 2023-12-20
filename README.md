@@ -63,7 +63,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Flash messages](https://github.com/zamaniamin/python/wiki/Flash-messages)
   + [Seed](https://github.com/zamaniamin/python/wiki/Seed)
   + [Organize Logic](https://github.com/zamaniamin/python/wiki/Organize-Logic)
-  + [Django's Business Logic Services and Managers](https://github.com/zamaniamin/Python/wiki/Django's-Business-Logic:-A-Comprehensive-Guide-to-Services-and-Managers)
+  + [Django's Business Logic Services and Managers](https://github.com/zamaniamin/Python/wiki/Django-Business-Logic-A-Comprehensive-Guide-to-Services-and-Managers)
 ## API
   + [Introduction](https://github.com/zamaniamin/python/wiki/API)
   + [API development](https://github.com/zamaniamin/python/wiki/API-development)
