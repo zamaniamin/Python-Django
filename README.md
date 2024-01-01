@@ -31,6 +31,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Begin your Python journey](https://github.com/zamaniamin/Python/wiki/Begin-your-Python-journey)
   + [Your first program](https://github.com/zamaniamin/Python/wiki/Your-first-program)
   + [Python literals](https://github.com/zamaniamin/Python/wiki/Python-literals)
+  + [Operators - data manipulation tools](https://github.com/zamaniamin/Python/wiki/Operators-data-manipulation-tools)
 ## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python/wiki/Clean-Code-Example-in-Python)
