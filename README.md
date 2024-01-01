@@ -32,6 +32,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Your first program](https://github.com/zamaniamin/Python/wiki/Your-first-program)
   + [Python literals](https://github.com/zamaniamin/Python/wiki/Python-literals)
   + [Operators - data manipulation tools](https://github.com/zamaniamin/Python/wiki/Operators-data-manipulation-tools)
+  + [Variables - data-shaped boxes](https://github.com/zamaniamin/Python/wiki/Variables-data-shaped-boxes)
 ## Clean Code
   + [Clean Code Book](https://github.com/zamaniamin/python/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python/wiki/Clean-Code-Example-in-Python)
