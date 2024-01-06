@@ -69,6 +69,9 @@ You can use this resource and help me to upgrade or edit it.
   + [Django's Business Logic Services and Managers](https://github.com/zamaniamin/Python/wiki/Django-Business-Logic-A-Comprehensive-Guide-to-Services-and-Managers)
   + [TestCase](https://github.com/zamaniamin/Python/wiki/TestCase-setUpTestData-vs-setUp)
   + [DRF Tips and Tricks](https://github.com/zamaniamin/Python/wiki/DRF-Tips-and-Tricks)
+## Django Rest Framework
+  + [drf-spectacular](https://github.com/zamaniamin/python/wiki/drf-spectacular)
+  + [Serializers](https://github.com/zamaniamin/python/wiki/Serializers)
 ## API
   + [Introduction](https://github.com/zamaniamin/python/wiki/API)
   + [API development](https://github.com/zamaniamin/python/wiki/API-development)
@@ -92,11 +95,6 @@ You can use this resource and help me to upgrade or edit it.
   + [set up test](https://github.com/zamaniamin/Python/wiki/Set-Up-Test)
 ## TDD
   + [What is Test-Driven Development?](https://github.com/zamaniamin/Python/wiki/What-is-Test%E2%80%90Driven-Development%3F)
-
-
-## Django Rest Framework
-  + [drf-spectacular](https://github.com/zamaniamin/python/wiki/drf-spectacular)
-  + [Serializers](https://github.com/zamaniamin/python/wiki/Serializers)
 ## Git
   + [Git Commit Message Structure](https://github.com/zamaniamin/Python/wiki/Git-Commit-Message-Structure)
   + [Best Practices For Git Commits](https://github.com/zamaniamin/Python/wiki/Best-Practices-For-Git-Commits)
