@@ -37,6 +37,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Clean Code Book](https://github.com/zamaniamin/python/wiki/Clean-Code-Book)
   + [Clean Code Example in Python](https://github.com/zamaniamin/python/wiki/Clean-Code-Example-in-Python)
   + [SOLID Principles](https://github.com/zamaniamin/Python/wiki/SOLID-Principles)
+  + [Design Patterns](https://github.com/zamaniamin/Python/wiki/Design-Patterns)
 ## Algorithms
   + [Introduction](https://github.com/zamaniamin/python/wiki/Algorithms-Introduction)
   + [Sorting Algorithms](https://github.com/zamaniamin/python/wiki/Sorting-Algorithms)
