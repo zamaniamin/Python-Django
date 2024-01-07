@@ -70,6 +70,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Organize Logic](https://github.com/zamaniamin/python/wiki/Organize-Logic)
   + [Django's Business Logic Services and Managers](https://github.com/zamaniamin/Python/wiki/Django-Business-Logic-A-Comprehensive-Guide-to-Services-and-Managers)
   + [TestCase](https://github.com/zamaniamin/Python/wiki/TestCase-setUpTestData-vs-setUp)
+  + [ASGI and WSGI](https://github.com/zamaniamin/Python/wiki/ASGI-and-WSGI)
 ## Django Rest Framework
   + [DRF Tips and Tricks](https://github.com/zamaniamin/Python/wiki/DRF-Tips-and-Tricks)
   + [Serializers](https://github.com/zamaniamin/python/wiki/Serializers)
