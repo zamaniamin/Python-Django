@@ -76,6 +76,7 @@ You can use this resource and help me to upgrade or edit it.
   + [TestCase](https://github.com/zamaniamin/Python/wiki/TestCase-setUpTestData-vs-setUp)
   + [ASGI and WSGI](https://github.com/zamaniamin/Python/wiki/ASGI-and-WSGI)
   + [Celery Framework](https://github.com/zamaniamin/Python/wiki/Celery-Framework)
+  + [Redis and Django](https://github.com/zamaniamin/Python/wiki/Redis-and-Django)
 ## Django Rest Framework
   + [DRF Tips and Tricks](https://github.com/zamaniamin/Python/wiki/DRF-Tips-and-Tricks)
   + [Serializers](https://github.com/zamaniamin/python/wiki/Serializers)
