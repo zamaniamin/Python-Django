@@ -42,6 +42,7 @@ You can use this resource and help me to upgrade or edit it.
   + [SOLID Principles](https://github.com/zamaniamin/Python/wiki/SOLID-Principles)
   + [Design Patterns](https://github.com/zamaniamin/Python/wiki/Design-Patterns)
   + [MVC vs MVT](https://github.com/zamaniamin/Python/wiki/MVC-vs-MVT)
+  + [OOP](https://github.com/zamaniamin/Python/wiki/OOP)
 ## Algorithms
   + [Introduction](https://github.com/zamaniamin/python/wiki/Algorithms-Introduction)
   + [Sorting Algorithms](https://github.com/zamaniamin/python/wiki/Sorting-Algorithms)
