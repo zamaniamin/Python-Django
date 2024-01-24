@@ -41,7 +41,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Comments](https://github.com/zamaniamin/Python/wiki/Comments)
   + [The input() function and string operators](https://github.com/zamaniamin/Python/wiki/How-to-talk-to-a-computer)
 ### Boolean values, conditional execution, loops, lists and list processing, logical and bitwise operations
-  + [Comparison operators and conditional execution]
+  + [Comparison operators and conditional execution](https://github.com/zamaniamin/Python/wiki/Comparison-operators-and-conditional-execution)
   + [Loops]
   + [Logic and bit operations in Python]
   + [Lists]
