@@ -121,6 +121,7 @@ You can use this resource and help me to upgrade or edit it.
   + [Best Practices For Git Commits](https://github.com/zamaniamin/Python/wiki/Best-Practices-For-Git-Commits)
 ## [JSON](https://github.com/zamaniamin/python/wiki/JSON)
 ## Linux
+  + [Python](https://github.com/zamaniamin/Python/wiki/linux-and-python)
   + [Useful Linux commands](https://github.com/zamaniamin/Python/wiki/Useful-Linux-commands)
 ## Docker
 ## Python Testing
